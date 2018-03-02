@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "How to Fix a Leaking Toilet"
 date:   2018-03-02 19:57:28 +0530
 categories: plumbing

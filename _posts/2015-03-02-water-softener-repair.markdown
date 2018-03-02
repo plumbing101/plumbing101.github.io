@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "How to Rebuild a Water Softener"
 date:   2015-03-02 19:57:28 +0530
 categories: plumbing
