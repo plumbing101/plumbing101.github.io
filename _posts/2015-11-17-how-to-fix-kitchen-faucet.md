@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Learn To Fix Kitchen Faucet"
-date:   2015-11-17 16:16:01 -0600
+title: Learn To Fix Kitchen Faucet
+date: 2015-11-17 22:16:01 +0000
 categories: plumbing
 ---
 #DIY faucet repair
