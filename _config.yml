@@ -24,11 +24,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
-<<<<<<< HEAD
-theme: jekyll-theme-time-machine
-=======
-theme: minima
->>>>>>> parent of ca67671... .
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
