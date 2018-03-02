@@ -24,7 +24,7 @@ url: "https://plumbing101.github.io/" # the base hostname & protocol for your si
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-time-machine
+theme: minima
 plugins:
   - jekyll-feed
 
