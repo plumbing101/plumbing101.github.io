@@ -1,25 +1,23 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "How to Fix a Leaking Toilet"
 date:   2018-03-02 19:57:28 +0530
-categories: jekyll update
+categories: plumbing
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Ultimate Guide to Fixing a Leaking Toilet
+--
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Do you notice a small pool of water where your toilet meets the floor? Does the floor around the toilet feel spongy? Is the finished flooring coming up? If so, you probably have a bad seal between the toilet horn (where the waste exits) and the drain line. Don’t procrastinate any longer. Small leaks trapped beneath the toilet will eventually rot floor surfaces, and even the underlying framing. Wait too long and repair costs rise, especially when you figure in replacing finished flooring and sometimes underlayments, subfloors or even the framing.
 
-Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+In this article, we’ll show you some tips for pulling the toilet (Photos 1 – 3) and then how to diagnose and fix the common causes of leaks. Finally, we’ll show you how to reset the toilet. After pulling the toilet and examining the evidence, you may get lucky and just have to replace the wax ring and remount the toilet. If that’s the case, you’ll have the stool back on-line in under an hour. You’ll find the products we suggest for making repairs at any home center or well-stocked hardware store.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+You may have one or more problems to solve, which may require more than one fix. So before you decide on a plan of action, check for:
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+A broken flange, usually on the outside of the slot that holds the toilet flange bolt (Photos 3 – 6).
+
+A flange that’s too low. That includes any flange that’s more than 1/4 in. below the finished floor (Photos 7 and 8).
+
+Rot around the toilet flange (Photos 9 and 10).
+
+Simple wax ring failure. If nothing appears to be wrong, resetting the toilet with a new wax ring might be the only thing you need to do (Photos 11 – 14).
